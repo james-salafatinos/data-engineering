@@ -2,7 +2,6 @@ class Algos:
     def __init__(self):
         pass
     
-
     def binary_search(arr, item, log = False):
         """
         Returns the index of the item if found, otherwise None. Time-complexity = O(log n)
